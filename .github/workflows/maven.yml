@@ -16,7 +16,7 @@ on:
 # missing permision
 permissions:
   contents: read
-  dependency-graph: write
+  deployments: write
 
 jobs:
   build:
